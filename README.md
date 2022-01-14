@@ -1,6 +1,7 @@
+![Front End Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/s960x960/120247577_2650418451842301_8498973246010967914_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFn1U2nFA193PQkmL71qH1ViKr3_uOlZomIqvf-46VmiX1bCpiuJdDNrkrVwmorY3jiRN_1-vVYqUjJmi5MOweW&_nc_ohc=okqsmC_cnvsAX-b3rjM&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8oRoG3qw0_F3cysdk7DzWKK1s_2N-XuoVKbHRCwMOq8w&oe=61FD2737)
+
 ### Hi there 👋, My name is Ashik Ahmed
 #### Front End Developer
-![Front End Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/s960x960/120247577_2650418451842301_8498973246010967914_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFn1U2nFA193PQkmL71qH1ViKr3_uOlZomIqvf-46VmiX1bCpiuJdDNrkrVwmorY3jiRN_1-vVYqUjJmi5MOweW&_nc_ohc=okqsmC_cnvsAX-b3rjM&_nc_ht=scontent.fdac7-1.fna&oh=00_AT8oRoG3qw0_F3cysdk7DzWKK1s_2N-XuoVKbHRCwMOq8w&oe=61FD2737)
 
 Seasoned and independent Front End Developer with 5 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging.
 
