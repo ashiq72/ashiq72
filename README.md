@@ -1,12 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ratheshan Sathiyamoorthy</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Md Ashiquzzaman</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
   <em>
-    This is me <b>Ratheshan Sathiyamoorthy</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>, Sri Lanka</a>.
-    An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+Greetings! I'm  <b>Md Ashiquzzaman</b>, an aspiring <b>MERN Stack Developer</b> excited to embark on a journey into the
+world of front-end development. As a fresher, I understand the value of mentorship and continuous
+learning.
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
@@ -14,9 +15,9 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
+- 🔭 I’m currently working on Fullstack Web Development.
+- 👯 I’m looking to collaborate with Fullstack Web projects.
+- 💡 Contributing to Open Source Projects has always been my goal.
 - ⚡ Fun fact: I love Sports, especially Cricket.
 <br>
 
@@ -85,25 +86,25 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
-   <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="#">
+   <img align="left" alt=" Md Ashiquzzaman| Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:lionratheshan@gmail.com">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="ahmedashik18kn@gmail.com">
+    <img align="left" alt="Md Ashiquzzaman | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/Ratheshan_03">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  <a href="https://twitter.com/">
+    <img align="left" alt="Md Ashiquzzaman| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
-  <a href="https://www.instagram.com/ratheshan_03/">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://www.instagram.com/ashik.ahmed72">
+    <img align="left" alt="Md Ashiquzzaman | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100003874786181">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+   <a href="https://www.facebook.com/Ashik.ahmed72">
+    <img align="left" alt="Md Ashiquzzaman| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
-   <a href="https://github.com/Ratheshan03">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+   <a href="https://github.com/ashiq72">
+    <img align="left" alt="Md Ashiquzzaman| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
   
-<p align="right" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
+<p align="right" > Created with 🖤 by <a href="https://github.com/ashiq72">Md Ashiquzzaman</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
