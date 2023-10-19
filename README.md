@@ -67,7 +67,7 @@ learning.
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/md-ashiquzzaman1">
    <img align="left" alt=" Md Ashiquzzaman| Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="ahmedashik18kn@gmail.com">
