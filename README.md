@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Md Ashiquzzaman</h1>
 <p align="center">
-  <a href="https://github.com/ashiq72/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Developer;MERN+Stack+Web+Developer;React+Js+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/ashiq72/"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Developer;MERN+Stack+Web+Developer;React+Js+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
