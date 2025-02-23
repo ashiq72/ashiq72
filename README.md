@@ -73,9 +73,7 @@ learning.
   <a href="ahmedashik18kn@gmail.com">
     <img align="left" alt="Md Ashiquzzaman | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/">
-    <img align="left" alt="Md Ashiquzzaman| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
+ 
   <a href="https://www.instagram.com/ashik.ahmed72">
     <img align="left" alt="Md Ashiquzzaman | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
