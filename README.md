@@ -67,9 +67,10 @@ learning.
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/md-ashiquzzaman1">
-   <img align="left" alt="Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
+<a href="https://www.linkedin.com/in/md-ashiquzzaman1" target="_blank">
+  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
   <a href="ahmedashik18kn@gmail.com">
     <img align="left" alt="Md Ashiquzzaman | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
