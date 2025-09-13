@@ -9,7 +9,7 @@ Greetings! I'm  <b>Md Ashiquzzaman</b>, an aspiring <b>MERN Stack Developer</b> 
 world of front-end development. As a fresher, I understand the value of mentorship and continuous
 learning.
   <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+  <b><i>"Always Work Hard and Trust the Process"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
