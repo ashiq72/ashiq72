@@ -18,7 +18,7 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
 
 | A Little More About Myself...                                                                                                                    | Let's Connect!                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🔭 &nbsp; I’m currently building full-stack applications and honing my skills in backend architecture.                                              | 📧 &nbsp; **mdashiquzzaman98@gmail.com** |
+| 🔭 &nbsp; I’m currently building full-stack applications and honing my skills in backend architecture.                                              | **mdashiquzzaman98@gmail.com** |
 | 🌱 &nbsp; I’m focusing on mastering advanced state management and exploring cloud deployment.                                                     | <a href="https://www.linkedin.com/in/md-ashiquzzaman1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ashiq72" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> |
 | 👯 &nbsp; I’m looking to collaborate on open-source projects, especially those built with TypeScript.                                              | <a href="https://www.facebook.com/Ashik.ahmed72" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.instagram.com/ashik.ahmed72" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> |
 | ⚡ &nbsp; Fun fact: I'm a huge cricket enthusiast and love analyzing game strategies!                                                              |                                                                                                                                                                                                                                                                                                              |
@@ -27,50 +27,50 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
 
 ### 💻 My Tech Stack
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center"><strong>Languages</strong></td>
+    <td align="center" width="150px" valign="middle"><strong>Languages</strong></td>
     <td>
-      <a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+      <a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;&nbsp;
       <a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Frontend</strong></td>
+    <td align="center" width="150px" valign="middle"><strong>Frontend</strong></td>
     <td>
-      <a href="https://reactjs.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>
-      <a href="https://nextjs.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"></a>
-      <a href="https://vuejs.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
-      <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="30"></a>
-      <a href="https://pinia.vuejs.org/" target="_blank"><img src="https://pinia.vuejs.org/logo.svg" height="30"></a>
-      <a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a>
-      <a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+      <a href="https://reactjs.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></a>&nbsp;&nbsp;
+      <a href="https://nextjs.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"></a>&nbsp;&nbsp;
+      <a href="https://vuejs.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>&nbsp;&nbsp;
+      <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="30"></a>&nbsp;&nbsp;
+      <a href="https://pinia.vuejs.org/" target="_blank"><img src="https://pinia.vuejs.org/logo.svg" height="30"></a>&nbsp;&nbsp;
+      <a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a>&nbsp;&nbsp;
+      <a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>&nbsp;&nbsp;
       <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30"/></a>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Backend</strong></td>
+    <td align="center" width="150px" valign="middle"><strong>Backend</strong></td>
     <td>
-      <a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>
-      <a href="https://expressjs.com" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></a>
-      <a href="https://nestjs.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"></a>
+      <a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></a>&nbsp;&nbsp;
+      <a href="https://expressjs.com" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></a>&nbsp;&nbsp;
+      <a href="https://nestjs.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"></a>&nbsp;&nbsp;
       <a href="https://graphql.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg"></a>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Database & ORM</strong></td>
+    <td align="center" width="150px" valign="middle"><strong>Database & ORM</strong></td>
     <td>
-      <a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
-      <a href="https://www.postgresql.org" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
+      <a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>&nbsp;&nbsp;
+      <a href="https://www.postgresql.org" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>&nbsp;&nbsp;
       <a href="https://www.prisma.io/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"></a>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Tools & Platforms</strong></td>
+    <td align="center" width="150px" valign="middle"><strong>Tools & Platforms</strong></td>
     <td>
-      <a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
-      <a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a>
-      <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="30"></a>
+      <a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>&nbsp;&nbsp;
+      <a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a>&nbsp;&nbsp;
+      <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="30"></a>&nbsp;&nbsp;
       <a href="https://www.docker.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></a>
     </td>
   </tr>
