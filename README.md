@@ -130,7 +130,7 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
     </td>
     <td width="50%">
       <a href="[LINK_TO_LIVE_DEMO]" target="_blank">
-        <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/7be0f45b-d87d-47ca-a183-428a89cc9515.png" alt="Project 1 Screenshot" width="100%">
+        <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/328f4717-0837-42e3-81f2-46999a790a91.png" alt="Kawaiisss Project Screenshot" width="100%">
       </a>
     </td>
   </tr>
@@ -144,7 +144,7 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
     </td>
     <td width="50%">
        <a href="[LINK_TO_LIVE_DEMO]" target="_blank">
-        <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/aeb9de6f-b7b7-448b-a55b-adf6f77c5e96.png" alt="Project 2 Screenshot" width="100%">
+        <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/aeb9de6f-b7b7-448b-a55b-adf6f77c5e96.png" alt="Poptocart Project Screenshot" width="100%">
       </a>
     </td>
   </tr>
