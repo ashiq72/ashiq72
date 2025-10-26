@@ -122,7 +122,7 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
 <table>
   <tr>
     <td width="50%">
-      <h3>Project Title 1</h3>
+      <h3>Kawaiisss</h3>
       <p>A brief description of your project. What problem does it solve? What makes it special?</p>
       <p><strong>Technologies Used:</strong> React, Node.js, MongoDB, Express</p>
       <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank">GitHub Repo</a> | 
@@ -136,7 +136,7 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
   </tr>
   <tr>
     <td width="50%">
-      <h3>Project Title 2</h3>
+      <h3>Poptocart</h3>
       <p>Another project description. Highlight a key feature or a challenge you overcame.</p>
       <p><strong>Technologies Used:</strong> Next.js, Tailwind CSS, Firebase</p>
       <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank">GitHub Repo</a> | 
@@ -144,7 +144,7 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
     </td>
     <td width="50%">
        <a href="[LINK_TO_LIVE_DEMO]" target="_blank">
-        <img src="[LINK_TO_PROJECT_SCREENSHOT]" alt="Project 2 Screenshot" width="100%">
+        <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/aeb9de6f-b7b7-448b-a55b-adf6f77c5e96.png" alt="Project 2 Screenshot" width="100%">
       </a>
     </td>
   </tr>
