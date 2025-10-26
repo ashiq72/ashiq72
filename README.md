@@ -130,7 +130,7 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
     </td>
     <td width="50%">
       <a href="[LINK_TO_LIVE_DEMO]" target="_blank">
-        <img src="[LINK_TO_PROJECT_SCREENSHOT]" alt="Project 1 Screenshot" width="100%">
+        <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/7be0f45b-d87d-47ca-a183-428a89cc9515.png" alt="Project 1 Screenshot" width="100%">
       </a>
     </td>
   </tr>
