@@ -125,11 +125,11 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
       <h3>Kawaiisss</h3>
       <p>A brief description of your project. What problem does it solve? What makes it special?</p>
       <p><strong>Technologies Used:</strong> React, Node.js, MongoDB, Express</p>
-      <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank">GitHub Repo</a> | 
-      <a href="[LINK_TO_LIVE_DEMO]" target="_blank">Live Demo</a>
+      <a href="https://github.com/ashiq72/kawaiisss.git" target="_blank">GitHub Repo</a> | 
+      <a href="https://kawaiisss.vercel.app" target="_blank">Live Demo</a>
     </td>
     <td width="50%">
-      <a href="[LINK_TO_LIVE_DEMO]" target="_blank">
+      <a href="https://kawaiisss.vercel.app" target="_blank">
         <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/328f4717-0837-42e3-81f2-46999a790a91.png" alt="Kawaiisss Project Screenshot" width="100%">
       </a>
     </td>
@@ -139,11 +139,11 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
       <h3>Poptocart</h3>
       <p>Another project description. Highlight a key feature or a challenge you overcame.</p>
       <p><strong>Technologies Used:</strong> Next.js, Tailwind CSS, Firebase</p>
-      <a href="[LINK_TO_YOUR_PROJECT_REPO]" target="_blank">GitHub Repo</a> | 
-      <a href="[LINK_TO_LIVE_DEMO]" target="_blank">Live Demo</a>
+      <a href="https://github.com/ashiq72/poptocart.git" target="_blank">GitHub Repo</a> | 
+      <a href="https://poptocart.vercel.app/" target="_blank">Live Demo</a>
     </td>
     <td width="50%">
-       <a href="[LINK_TO_LIVE_DEMO]" target="_blank">
+       <a href="https://poptocart.vercel.app/" target="_blank">
         <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/aeb9de6f-b7b7-448b-a55b-adf6f77c5e96.png" alt="Poptocart Project Screenshot" width="100%">
       </a>
     </td>
