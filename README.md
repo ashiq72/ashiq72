@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <h1><b>Hi, I'm Md Ashiquzzaman</b></h1>
   <a href="https://github.com/ashiq72/">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Software+Developer;MERN+Stack+Specialist;Next.js+&_Nest.js+Developer;Lifelong+Learner&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Software+Developer;MERN+Stack+Specialist;Next.js+%26+Nest.js+Developer;Lifelong+Learner&center=true&width=500&height=50">
   </a>
 </div>
 
@@ -16,12 +16,12 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
 
 ### 🚀 About Me
 
-| A Little More About Myself...                                                                                                                    | Let's Connect!                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🔭 &nbsp; I’m currently building full-stack applications and honing my skills in backend architecture.                                              | **mdashiquzzaman98@gmail.com** |
-| 🌱 &nbsp; I’m focusing on mastering advanced state management and exploring cloud deployment.                                                     | <a href="https://www.linkedin.com/in/md-ashiquzzaman1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ashiq72" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> |
-| 👯 &nbsp; I’m looking to collaborate on open-source projects, especially those built with TypeScript.                                              | <a href="https://www.facebook.com/Ashik.ahmed72" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.instagram.com/ashik.ahmed72" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> |
-| ⚡ &nbsp; Fun fact: I'm a huge cricket enthusiast and love analyzing game strategies!                                                              |                                                                                                                                                                                                                                                                                                              |
+| A Little More About Myself... | Let's Connect! |
+| :--- | :--- |
+| 🔭 &nbsp; I’m currently building full-stack applications and honing my skills in backend architecture. | **mdashiquzzaman98@gmail.com** |
+| 🌱 &nbsp; I’m focusing on mastering advanced state management and exploring cloud deployment. | <a href="https://www.linkedin.com/in/md-ashiquzzaman1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ashiq72" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> |
+| 👯 &nbsp; I’m looking to collaborate on open-source projects, especially those built with TypeScript. | <a href="https://www.facebook.com/Ashik.ahmed72" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.instagram.com/ashik.ahmed72" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> |
+| ⚡ &nbsp; Fun fact: I'm a huge cricket enthusiast and love analyzing game strategies! | |
 
 ---
 
@@ -110,8 +110,10 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashiq72&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Md Ashiquzzaman's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashiq72&theme=vision_friendly_dark" alt="Md Ashiquzzaman's GitHub Stats" />
+   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq72&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+ 
   <img src="https://streak-stats.demolab.com/?user=ashiq72&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -121,28 +123,28 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Kawaiisss</h3>
       <p>A brief description of your project. What problem does it solve? What makes it special?</p>
       <p><strong>Technologies Used:</strong> React, Node.js, MongoDB, Express</p>
       <a href="https://github.com/ashiq72/kawaiisss.git" target="_blank">GitHub Repo</a> | 
       <a href="https://kawaiisss.vercel.app" target="_blank">Live Demo</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://kawaiisss.vercel.app" target="_blank">
         <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/328f4717-0837-42e3-81f2-46999a790a91.png" alt="Kawaiisss Project Screenshot" width="100%">
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Poptocart</h3>
       <p>Another project description. Highlight a key feature or a challenge you overcame.</p>
       <p><strong>Technologies Used:</strong> Next.js, Tailwind CSS, Firebase</p>
       <a href="https://github.com/ashiq72/poptocart.git" target="_blank">GitHub Repo</a> | 
       <a href="https://poptocart.vercel.app/" target="_blank">Live Demo</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
        <a href="https://poptocart.vercel.app/" target="_blank">
         <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/aeb9de6f-b7b7-448b-a55b-adf6f77c5e96.png" alt="Poptocart Project Screenshot" width="100%">
       </a>
