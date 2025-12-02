@@ -110,7 +110,7 @@ A passionate and driven Full-Stack Developer from Bangladesh 🇧🇩, specializ
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashiq72&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Md Ashiquzzaman's GitHub Stats" />
+![Md Ashiquzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiq72&show_icons=true&theme=vision-friendly-dark&hide_border=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq72&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=ashiq72&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </p>
