@@ -55,14 +55,46 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/ashiq72">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashiq72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq72&layout=compact&langs_count=7&theme=tokyonight"/>
+  <h2>Hi there, I'm Ashiq! 👋</h2>
+  <img src="https://komarev.com/ghpvc/?username=ashiq72&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashiq72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ashiq's Stats" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq72&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Ashiq's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ashiq72&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=ashiq72&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Ashiq's Trophies" />
   </a>
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashiq72&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
 ---
