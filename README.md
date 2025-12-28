@@ -55,13 +55,12 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <h2>Hi there, I'm Ashiq! 👋</h2>
   <img src="https://komarev.com/ghpvc/?username=ashiq72&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <table border="0">
     <tr>
       <td>
@@ -72,7 +71,7 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ashiq72&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
