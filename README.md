@@ -45,7 +45,7 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,tailwind" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,heroku,vercel" /> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,vercel" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> |
 
 </div>
