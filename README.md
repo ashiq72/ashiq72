@@ -79,12 +79,12 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🏆 Achievements</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophies">
     <img src="https://github-profile-trophies.vercel.app/?username=ashiq72&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Ashiq's Trophies" />
   </a>
-</div>
+</div> -->
 
 <br/>
 
