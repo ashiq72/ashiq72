@@ -60,18 +60,6 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
 
 <br/>
 
-<!-- <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashiq72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ashiq's Stats" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq72&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Ashiq's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ashiq72&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
