@@ -99,7 +99,7 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
       <ul>
         <li>🔐 Secure User Authentication (JWT)</li>
         <li>🛒 Real-time Cart Management</li>
-        <li>💳 Integrated Payment Gateway</li>
+        <li>💳 Integrated Payment Gateway </li>
         <li>📱 Mobile-First Responsive Design</li>
       </ul>
       <p><strong>🛠️ Tech Stack:</strong> React, Node.js, Express, MongoDB</p>
