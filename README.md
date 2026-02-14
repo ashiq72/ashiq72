@@ -28,7 +28,7 @@
 
 I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven by the challenge of connecting backend architecture with intuitive frontend design. With a strong foundation in the **MERN, MEVN, and PERN stacks**, I specialize in building high-performance web applications that solve real-world problems.
 
-- 🔭 **Currently working on:** Advanced backend architecture and scalable Microservices.
+- 🔭 **Currently working on:** Advanced backend architecture and scalable Microservices. 
 - 🌱 **Currently learning:** Systems Design, Cloud Deployment (AWS), and Rust.
 - 👯 **Looking to collaborate on:** Open-source projects involving **TypeScript** and **Next.js**.
 - ⚡ **Fun fact:** I treat coding bugs like cricket matches—I analyze the strategy, adjust my field, and aim for a clean finish! 🏏
