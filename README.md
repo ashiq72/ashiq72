@@ -77,6 +77,14 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
+<div align="center">
+  <h3>Other Technologies 💬</h3>
+
+  <img src="https://img.shields.io/badge/-Bash-222?style=flat&logo=gnu%20bash&logoColor=fff" alt="bash_badge" />
+  <img src="https://img.shields.io/badge/-PowerShell-222?style=flat&logo=powershell&logoColor=fff" alt="powershell_badge" />
+  <img src="https://img.shields.io/badge/-OpenAI%20Codex-222?style=flat&logo=openai&logoColor=fff" alt="codex_badge" />
+</div>
+
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
