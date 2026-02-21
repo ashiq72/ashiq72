@@ -125,12 +125,12 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
 <table border="0" width="100%">
   <tr>
     <td width="45%" valign="top">
-      <a href="https://poptocart.vercel.app/" target="_blank">
-        <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/aeb9de6f-b7b7-448b-a55b-adf6f77c5e96.png" alt="Poptocart Screenshot" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+      <a href="https://amarshopbd.vercel.app/" target="_blank">
+        <img src="https://ibb.co.com/7tP5xdZB" alt="Amar Shop BD" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
       </a>
     </td>
     <td width="55%" valign="top">
-      <h3 align="center">🛍️ Poptocart</h3>
+      <h3 align="center">🛍️ Amar Shop BD</h3>
       <p align="center">
         <a href="https://poptocart.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-Success?style=for-the-badge&logo=vercel&logoColor=white" />
