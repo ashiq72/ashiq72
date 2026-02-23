@@ -126,7 +126,7 @@ I am a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**, driven 
   <tr>
     <td width="45%" valign="top">
       <a href="https://amarshopbd.vercel.app/" target="_blank">
-        <img src="https://ibb.co.com/7tP5xdZB" alt="Amar Shop BD" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+        <img src="https://bponi.sgp1.cdn.digitaloceanspaces.com/bponi/file/aa8926bc-ada3-4a89-b72b-96794ff49a3e.png" alt="Amar Shop BD" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
       </a>
     </td>
     <td width="55%" valign="top">
