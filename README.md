@@ -72,7 +72,7 @@
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,react,nextjs,vue,redux,html,css,tailwind,nodejs,express,nestjs,graphql,mongodb,postgres,prisma,docker,aws,gcp,firebase,vercel,git,github,vscode,postman,figma&perline=13" />
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,react,nextjs,vue,redux,html,css,tailwind,nodejs,express,nestjs,graphql,mongodb,postgres,prisma,docker,aws,gcp,firebase,vercel,git,github,vscode,postman&perline=13" />
 </div>
 
 <br/>
