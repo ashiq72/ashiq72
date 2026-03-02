@@ -133,9 +133,9 @@
   <a href="https://free4mood.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/ashiq72" target="_blank">
+  <!-- <a href="https://github.com/ashiq72" target="_blank">
     <img src="https://img.shields.io/badge/Code-111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
