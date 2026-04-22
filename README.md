@@ -62,7 +62,7 @@
 
 | 🔭 Currently Working | 🌱 Learning | 👯 Collaborate On | ⚡ Fun Fact |
 |---|---|---|---|
-| Scalable backend & microservices | System Design, AWS, Rust | TypeScript + Next.js OSS | Bugs feel like cricket—strategy wins 🏏 |
+| Scalable backend & microservices | System Design, AWS and Digitalocean, Rust | TypeScript + Next.js OSS | Bugs feel like cricket—strategy wins 🏏 |
 
 </div>
 
